@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://niowniow.github.ioniowniow.github.io/sitemap.xml
+Sitemap: https://niowniow.github.io/sitemap.xml
